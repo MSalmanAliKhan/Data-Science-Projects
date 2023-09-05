@@ -1,0 +1,2 @@
+The open-source dataset is taken from Kaggle: 
+https://www.kaggle.com/datasets/talhabu/us-regional-sales-data

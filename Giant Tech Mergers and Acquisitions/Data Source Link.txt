@@ -1,0 +1,2 @@
+The open-source dataset is taken from Kaggle: 
+https://www.kaggle.com/datasets/joebeachcapital/technology-mergers-and-acquisitions
