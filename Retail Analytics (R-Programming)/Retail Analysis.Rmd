@@ -19,9 +19,9 @@ library(date)
 ```
 Importing Datasets
 ```{r}
-stores <- read_csv("E:\\Salman Study Files\\Career Paths\\Data Science\\Open Source Projects\\Finance\\Retail Analytics\\stores data-set.csv")
-sales <- read_csv("E:\\Salman Study Files\\Career Paths\\Data Science\\Open Source Projects\\Finance\\Retail Analytics\\sales data-set.csv")
-features <- read_csv("E:\\Salman Study Files\\Career Paths\\Data Science\\Open Source Projects\\Finance\\Retail Analytics\\Features data set.csv")
+stores <- read_csv(File Path)
+sales <- read_csv(File Path)
+features <- read_csv(File Path)
 ```
 Understanding Data
 
