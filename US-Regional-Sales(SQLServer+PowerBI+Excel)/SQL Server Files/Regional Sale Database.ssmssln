@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 19.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Regional Sale Database", "Regional Sale Database\Regional Sale Database.ssmssqlproj", "{B844CC3A-F03D-4AB6-9CC1-66774733D706}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B844CC3A-F03D-4AB6-9CC1-66774733D706}.Default|Default.ActiveCfg = Default
+		{548EB4F1-8E04-429A-8274-7E4D34B95B55}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {591F0CCE-9D71-4501-8500-E8939A6D6FE5}
+	EndGlobalSection
+EndGlobal
