@@ -1,4 +1,4 @@
-<h2 align="center">**Retail Analytics**</h2>
+<h2 align="center">Retail Analytics</h2>
 
 Retail, the process of selling goods and services directly to consumers, is a cornerstone of the global economy. Retailers play a pivotal role in connecting manufacturers and producers with end consumers, offering a wide array of products across various industries.
 
