@@ -1,4 +1,4 @@
-<h2 align="center">**Twitter Sentiment Anaysis**</h2>
+<h2 align="center">Twitter Sentiment Anaysis</h2>
 
 Twitter (X) sentiment analysis is a powerful technique in the realm of natural language processing and data analytics, focused on gauging and interpreting the emotional tone and opinions expressed within the vast expanse of tweets that populate the Xverse.
 
